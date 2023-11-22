@@ -31,7 +31,8 @@ Task2 inserts fake data into the tables in MySQL.
 python task2.py
 ```
 
-Output"
+Output:
+
 ```
 Doctor table filled with 200 rows of fake data.
 Patient table filled with 500 rows of fake data.
@@ -49,6 +50,7 @@ python task3.py
 ```
 
 Output:
+
 ```
 |   Doctor name    |   Doctor fname   |   Patient name   |   Patient fname  |
 | ---------------- | ---------------- | ---------------- | ---------------- |
